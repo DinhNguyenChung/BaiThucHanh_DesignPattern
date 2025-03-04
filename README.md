@@ -10,21 +10,25 @@ Minh Chứng:
 
 Minh Chứng
 
-![image](https://github.com/user-attachments/assets/3e4a834a-3ded-4d0e-b1ae-c21384860717)
+![image](https://github.com/user-attachments/assets/26326ca7-749e-4cd0-9b06-40d56bbc57e3)
+
 
 
 #3 Strategy Pattern
 
 Minh Chứng
 
-![image](https://github.com/user-attachments/assets/e200feff-4187-4818-8897-84fb6e6dfa35)
+![image](https://github.com/user-attachments/assets/e7d62891-7241-4953-b622-526e7712ee14)
+
 
 
 #4 Decorator
 
 Minh Chứng
 
-![image](https://github.com/user-attachments/assets/8e928324-9364-4c43-b12b-87bb7a715d7f)
+![image](https://github.com/user-attachments/assets/ed622d54-ba2c-4452-bf82-8ad653b5f862)
+
+
 
 
 
