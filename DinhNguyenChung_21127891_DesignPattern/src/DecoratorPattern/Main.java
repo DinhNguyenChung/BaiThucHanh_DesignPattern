@@ -2,19 +2,20 @@ package DecoratorPattern;
 
 public class Main {
 	 public static void main(String[] args) {
-	        Work emp = new BaseEmployee();
-	        
+		 // Captain
+	        Work captain = new CaptainDecorator(new BaseEmployee());
 	        System.out.println("Captain: ");
-	        emp = new CaptainDecorator(emp);
-	        System.out.println(emp.getDescription());
+	        System.out.println(captain.getDescription());
 	        
+	        // Director
+	        Work director = new DirectorDecorator(new BaseEmployee());
 	        System.out.println("Director: ");
-	        emp = new DirectorDecorator(emp);
-	        System.out.println(emp.getDescription());
+	        System.out.println(director.getDescription());
 	        
+	        // Office Staff
+	        Work officeStaff = new OfficeStaffDecorator(new BaseEmployee());
 	        System.out.println("Office Staff: ");
-	        emp = new OfficeStaffDecorator(emp);
-	        System.out.println(emp.getDescription());
+	        System.out.println(officeStaff.getDescription());
 	    }
 
 }
